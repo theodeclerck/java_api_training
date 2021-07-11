@@ -1,3 +1,5 @@
+CODECOV_TOKEN='929708c2-e814-4e71-83b4-a1ea506ad630'
+
 name: Build
 
 on: push
